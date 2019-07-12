@@ -1,0 +1,21 @@
+h1 {
+  color: black;
+  font-family: 'Cousine', monospace;
+}
+
+h2{
+  font-weight: bold;
+  font-family: 'Cousine', monospace;
+}
+body {
+  background-color: #ffd9b0;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+}
+form {
+  font-family: 'Cousine', monospace;
+}
